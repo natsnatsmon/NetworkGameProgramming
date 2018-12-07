@@ -1,5 +1,0 @@
-﻿  MultiThreadTCPServer_FILE.cpp
-c:\users\ha6q6\desktop\project\3학년\12_넷겜플\multithreadtcpserver\multithreadtcpserver_file.cpp(120): warning C4129: '%': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
-c:\users\ha6q6\desktop\project\3학년\12_넷겜플\multithreadtcpserver\multithreadtcpserver_file.cpp(120): warning C4778: 'printf' : 서식 문자열 '% \n'이(가) 종결되지 않았습니다.
-c:\users\ha6q6\desktop\project\3학년\12_넷겜플\multithreadtcpserver\multithreadtcpserver_file.cpp(250): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-  MultiThreadTCPServer.vcxproj -> C:\Users\ha6q6\Desktop\Project\3학년\12_넷겜플\MultiThreadTCPServer\Debug\MultiThreadTCPServer.exe
